@@ -1,0 +1,8 @@
+﻿  Comp1.cpp
+f:\study\algoritms\repos\comp\comp1\comp1\comp1.cpp(367): warning C4018: <: несоответствие типов со знаком и без знака
+f:\study\algoritms\repos\comp\comp1\comp1\comp1.cpp(380): warning C4018: <: несоответствие типов со знаком и без знака
+f:\study\algoritms\repos\comp\comp1\comp1\comp1.cpp(196): warning C4715: copyTree: значение возвращается не при всех путях выполнения
+f:\study\algoritms\repos\comp\comp1\comp1\comp1.cpp(317): warning C4715: correctionTree: значение возвращается не при всех путях выполнения
+f:\study\algoritms\repos\comp\comp1\comp1\comp1.cpp(298): warning C4715: correctionElem: значение возвращается не при всех путях выполнения
+f:\study\algoritms\repos\comp\comp1\comp1\comp1.cpp(274): warning C4715: correctElem: значение возвращается не при всех путях выполнения
+  Comp1.vcxproj -> F:\study\Algoritms\repos\Comp\Comp1\Debug\Comp1.exe
